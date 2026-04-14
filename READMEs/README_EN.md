@@ -1,7 +1,7 @@
 # Discord Tag Ban
 
 <p align="center">
-  <a href="./README.md">Русский</a> · <strong>English</strong>
+  <a href="../README.md">Русский</a> · <strong>English</strong>
 </p>
 
 ## Overview
